@@ -25,5 +25,4 @@ public class restController {
         return "Coach name:  " + coachName +"  Team name: "+teamName;
     }
 
-
 }
